@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /nl/
+Sitemap: https://www.medispring.be/sitemap.xml
+
+
